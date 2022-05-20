@@ -1,0 +1,3 @@
+import bruteforce
+
+bruteforce.bruteforcing()
